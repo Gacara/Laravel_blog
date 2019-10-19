@@ -1,0 +1,13 @@
+Vidéo démonstrative ici : https://youtu.be/-bIJtosSieo
+
+Effectué sous wamp.
+
+Extraire test.rar dans le dossier wamp64\www
+
+Base de donnée mysql sous wamp, donc dans le fichier .env on a user : root et password vide 
+
+créer une nouvelle base de données "laravel" et importer le fichier test.sql qui se situe dans le dossier bdd sql
+
+Aller sur l'url http://localhost/test/public/
+
+
